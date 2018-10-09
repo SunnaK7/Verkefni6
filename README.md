@@ -1,2 +1,3 @@
 # Verkefni6
-Mjög flott
+Þetta er verkefni 6 sem ég á að skila eftir smástund.
+Hvað er þetta allt saman?
